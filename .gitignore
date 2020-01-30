@@ -4,6 +4,10 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+*.class
+*.len
+*.at
+*.tab
 
 ### STS ###
 .apt_generated
@@ -15,11 +19,12 @@ build/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+*.idea
 *.iws
 *.iml
 *.ipr
 out/
+
 
 ### NetBeans ###
 /nbproject/private/
