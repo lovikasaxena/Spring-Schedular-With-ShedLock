@@ -8,6 +8,11 @@ build/
 *.len
 *.at
 *.tab
+*.gradle
+*gradle-wrapper.properties
+*gradle-wrapper.jar
+*gradlew
+*.bat
 
 ### STS ###
 .apt_generated
